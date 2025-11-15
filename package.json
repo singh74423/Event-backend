@@ -1,7 +1,7 @@
 {
-  "name": "bookstore",
+  "name": "bookstore-backend",
   "version": "1.0.0",
-  "description": "mern project",
+  "description": "MERN Backend",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/singh74423/BookStoreAp.git"
   },
-  "author": "Ujjwal",
+  "author": "Ujjwal Singh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/singh74423/BookStoreAp/issues"
